@@ -31,7 +31,7 @@
   "require": {
     "php": ">=5.5.0",
     "ext-phalcon": "~2.0",
-    "league/oauth2-server": "~4.1"
+    "league/oauth2-server": "~5.0.0"
   },
   "autoload": {
     "psr-4": {
